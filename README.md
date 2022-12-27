@@ -29,7 +29,7 @@ This exercise is to implement the basics of using the git interactive rebase com
 
 ### What I learned
 
-- Rewording commits through interactive rebase.
+- Rewording commits through interactive rebase and cleaning up messy commits.
 
 ### Continued development
 
